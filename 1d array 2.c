@@ -10,7 +10,7 @@ int main(){
 	{
 		if(array[i]%3==0||array[i]%5==0)
 		{
-			printf("%d is divisible by 3 or 5\n",array[i]);
+			printf("%d is divisible by 3 or 5\n",array[i]);//To check whether The element is divisible by 3 or 5
 			sum=array[i]+sum;
 			
 		}
