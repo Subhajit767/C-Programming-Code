@@ -18,5 +18,6 @@ int main(){
 		printf("%d is not divisible by 3 or 5\n",array[i]);
 	}
 	printf("The required sum is %d",sum);
+	//printf("The code is now full\n");
 	return 0;
 }
