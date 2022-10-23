@@ -9,5 +9,8 @@ int main(){
 	}
 	for(i=0;i<=3;i++)
 	printf("%d %d\n",std[i][0],std[i][1]);
+	//printf("problem resolved \n");
+	
+	//printf("Problem resolved");
 	return 0;
 }
