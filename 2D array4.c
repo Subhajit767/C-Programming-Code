@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-	int array[3][3],i,j;
-	for(i=0;i<3;i++)
+	int array[30][30],i,j;
+	for(i=0;i<3;i++)//for taking inputs
 	{
 		for(j=0;j<3;j++)
 		{
@@ -9,7 +9,7 @@ int main(){
 			scanf("%d",&array[i][j]);
 		}
 	}
-	for(i=0;i<3;i++)
+	for(i=0;i<3;i++)//for printing 
 	{
 		for(j=0;j<3;j++)
 		{
