@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main(){
-	int array[10],i,size,sum=0;
+	int array[20],i,size,sum=0;
 	printf("Enter the number of elements :");
 	scanf("%d",&size);
-	printf("The elements are:\n");//for input purpose
+	printf("The elements are:\n");//for taking inputs
 	for(i=0;i<size;i++)
 	scanf("%d",&array[i]);
 	for(i=0;i<size;i++)
