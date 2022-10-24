@@ -2,7 +2,7 @@
 int main()
 {
 int i, low, high, mid, n, key, array[100];
-printf("Enter number of elementsn");
+printf("Enter number of element:\n");
 scanf("%d",&n);
 printf("Enter %d integersn", n);
 for(i = 0; i < n; i++)
