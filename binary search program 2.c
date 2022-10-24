@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main()
 {
-int i, low, high, mid, n, key, array[100];
+int i, low, high, mid, n, key, array[200];
 printf("Enter number of element:\n");
+//storing elements
 scanf("%d",&n);
 printf("Enter %d integersn", n);
 for(i = 0; i < n; i++)
