@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-#define MAXVAL 50
+#define MAXVAL 100
 #define COUNTER 11
 main()
 {
