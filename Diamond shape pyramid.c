@@ -4,7 +4,7 @@
 int main(){
 	int r,s,rows,a;
 	printf("Enter the numbers of rows:");
-	scanf("%d",&rows);
+	scanf("%d",&rows);//Enter no. of rows
 	for(r=1;r<=rows;r++)
 	{
 		for(s=1;s<=(rows-r);s++)
