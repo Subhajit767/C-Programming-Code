@@ -16,7 +16,7 @@ int main()
 			c++;
 		}
 	    b=i;
-		sum=0;
+		sum=0;//initializing sum=0
 		while(b>0)
 		{
 			a=b%10;
